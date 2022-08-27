@@ -1,4 +1,3 @@
-nature 13
 nuclear 3
 state 3
 vaccine 3

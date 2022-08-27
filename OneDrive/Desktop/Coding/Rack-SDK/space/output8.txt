@@ -1,8 +1,8 @@
 climate 18
 service 8
-nature 6
 center 3
 make 2
+provide 2
 people 2
 face 2
 delegate 2
@@ -16,10 +16,12 @@ improve 2
 change 2
 decade 2
 guarantee 2
+able 2
+share 2
+springer 2
 sure 1
 website 1
 personalise 1
-provide 1
 feature 1
 analyse 1
 give 1
@@ -53,7 +55,6 @@ like 1
 associate 1
 space 1
 never 1
-able 1
 produce 1
 absolute 1
 climate-change 1
@@ -61,8 +62,8 @@ advice 1
 error 1
 message 1
 centre 1
-share 1
-springer 1
+anyone 1
+initiative 1
 newsletter 1
 matter 1
 free 1

@@ -1,4 +1,3 @@
-nature 10
 space 5
 ever 4
 mirror 3

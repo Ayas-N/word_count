@@ -1,4 +1,3 @@
-nature 6
 space 4
 provide 2
 springer 2

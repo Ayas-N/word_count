@@ -1,4 +1,3 @@
-nature 13
 image 10
 space 5
 researcher 5

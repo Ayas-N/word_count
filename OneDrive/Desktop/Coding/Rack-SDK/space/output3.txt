@@ -1,4 +1,3 @@
-nature 17
 year 5
 star 4
 researcher 3
@@ -12,7 +11,6 @@ people 2
 like 2
 free 2
 science 2
-advance 2
 state 2
 space 2
 telescope 2
@@ -38,6 +36,7 @@ bronze 1
 emergence 1
 treasure 1
 trace 1
+advance 1
 embryonic-like 1
 type 1
 macular 1

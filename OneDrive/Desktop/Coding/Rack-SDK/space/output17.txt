@@ -1,4 +1,3 @@
-nature 10
 enzyme 3
 researcher 3
 science 3

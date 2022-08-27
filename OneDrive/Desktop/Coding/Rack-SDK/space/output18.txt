@@ -1,4 +1,3 @@
-nature 12
 space 12
 science 7
 programme 5

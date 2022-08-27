@@ -1,5 +1,4 @@
 drone 6
-nature 5
 researcher 4
 crater 3
 package 3

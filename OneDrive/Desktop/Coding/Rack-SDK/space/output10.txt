@@ -1,4 +1,3 @@
-nature 15
 telescope 4
 wildfire 3
 smoke 3

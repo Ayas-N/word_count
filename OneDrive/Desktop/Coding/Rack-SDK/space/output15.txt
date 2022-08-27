@@ -1,4 +1,3 @@
-nature 14
 people 4
 sophie 3
 make 2

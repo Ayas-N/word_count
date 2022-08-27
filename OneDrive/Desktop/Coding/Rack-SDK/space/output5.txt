@@ -9,7 +9,6 @@ aerospace 3
 solar 3
 state 3
 water 3
-nature 3
 make 2
 provide 2
 give 2

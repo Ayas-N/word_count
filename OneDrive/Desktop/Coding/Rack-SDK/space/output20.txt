@@ -5,7 +5,6 @@ atmosphere 5
 universe 4
 telescope 4
 astronomer 4
-nature 4
 four 3
 analyse 2
 people 2

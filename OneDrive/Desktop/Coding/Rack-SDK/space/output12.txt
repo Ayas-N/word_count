@@ -11,7 +11,6 @@ kilometre 3
 time 3
 inner 3
 smaller 3
-nature 3
 make 2
 provide 2
 science 2
