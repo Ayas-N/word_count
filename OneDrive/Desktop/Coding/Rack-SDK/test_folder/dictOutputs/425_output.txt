@@ -1,0 +1,9 @@
+science 3
+answer 1
+europe 1
+state 1
+share 1
+powerhouse 1
+workforce 1
+singapore 1
+supporter 1

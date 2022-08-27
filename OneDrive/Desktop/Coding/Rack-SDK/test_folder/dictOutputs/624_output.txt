@@ -1,0 +1,7 @@
+bridge 1
+define 1
+paper 1
+discipline 1
+appear 1
+influence 1
+rise 1

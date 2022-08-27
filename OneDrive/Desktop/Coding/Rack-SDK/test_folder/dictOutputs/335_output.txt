@@ -1,0 +1,13 @@
+later 1
+four 1
+rectangle 1
+face 1
+intelligence 1
+researcher 1
+sticker 1
+phrase 1
+white 1
+noise 1
+audio.these 1
+example 1
+consumer 1
